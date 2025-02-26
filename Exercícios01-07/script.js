@@ -109,8 +109,6 @@ data.usuarios.forEach((usuario, index) => {
 
 
 
-//Exercício 07
-//Não consegui fazer o 7, 8 e 9
 
 
 
